@@ -9,6 +9,7 @@ class ListNode {
 	// Pointer to the next item in the list.
 	ListNode* next;
 
+//this is the public section
 public:
 
 	// Constructor.
